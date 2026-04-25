@@ -21,5 +21,4 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["vite.config.ts"],
-  "exclude": ["src/electron"]
 }
